@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Top Down Survival Game.Plugins", "Top Down Survival Game.Plugins.csproj", "{CED7DA28-AB39-3AEF-5238-8A2527B2070D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Top Down Survival Game", "Top Down Survival Game.csproj", "{8BCC09A8-AA87-6C7C-143B-8849658B9DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Top Down Survival Game.Editor.Plugins", "Top Down Survival Game.Editor.Plugins.csproj", "{78CF321A-34AB-75B6-A817-E99998C6B098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Top Down Survival Game.Editor", "Top Down Survival Game.Editor.csproj", "{C9C10A46-AE99-57F8-9C6A-6B0C2CB69D00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CED7DA28-AB39-3AEF-5238-8A2527B2070D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED7DA28-AB39-3AEF-5238-8A2527B2070D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED7DA28-AB39-3AEF-5238-8A2527B2070D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED7DA28-AB39-3AEF-5238-8A2527B2070D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCC09A8-AA87-6C7C-143B-8849658B9DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCC09A8-AA87-6C7C-143B-8849658B9DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCC09A8-AA87-6C7C-143B-8849658B9DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCC09A8-AA87-6C7C-143B-8849658B9DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78CF321A-34AB-75B6-A817-E99998C6B098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78CF321A-34AB-75B6-A817-E99998C6B098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78CF321A-34AB-75B6-A817-E99998C6B098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78CF321A-34AB-75B6-A817-E99998C6B098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C10A46-AE99-57F8-9C6A-6B0C2CB69D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C10A46-AE99-57F8-9C6A-6B0C2CB69D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C10A46-AE99-57F8-9C6A-6B0C2CB69D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C10A46-AE99-57F8-9C6A-6B0C2CB69D00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

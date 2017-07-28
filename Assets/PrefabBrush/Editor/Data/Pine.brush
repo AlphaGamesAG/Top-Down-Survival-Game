@@ -1,0 +1,23 @@
+Layer Selection: Default
+Brush Max Size: 10
+Brush Size: 10
+Fill Mode: True
+Fill Rate: 0.431
+
+Game Object: Assets/Prefabs/Pine.prefab
+Layer: Default
+Toggle: True
+Slider: 0.5740741
+Lock Orientation Toggle: False
+Random Rotation Toggle: False
+Random Rotation X: False
+Random Rotation Y: False
+Random Rotation Z: False
+Random Scale Toggle: False
+Random Scale Min: 0.1
+Random Scale Max: 1
+Fixed Rotation Toggle: True
+Fixed Rotation X: 90
+Fixed Rotation Y: 0
+Fixed Rotation Z: 0
+Depth: 0
